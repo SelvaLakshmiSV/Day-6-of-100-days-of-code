@@ -1,5 +1,8 @@
 # Day 6 of 100 days of code
-## Conditionals <br/>
+# Super Revision 
+ I have revised all the topics learned from the past 5 days.
+ 
+# IF ELSE Conditionals <br/>
 -  If else <br/>
      if(🌧️)<br/>
         printf("stay 🏠");<br/>
