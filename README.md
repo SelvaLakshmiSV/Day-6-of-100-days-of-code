@@ -1,5 +1,5 @@
 # Day 6 of 100 days of code
-# Super Revision 
+# Super Revison 
  I have revised all the topics learned from the past 5 days.
  
 # IF ELSE Conditionals <br/>
